@@ -297,7 +297,7 @@ SHARED            utils.rs          Helpers                N/A        ✓
                   tee.rs            Full output recovery   N/A        ✓
 ```
 
-**Total: 67 modules** (45 command modules + 22 infrastructure modules)
+**Total: 70 modules** (48 command modules + 22 infrastructure modules)
 
 ### Module Count Breakdown
 
